@@ -1,0 +1,20 @@
+body{
+    background-color:#062939;
+    color:#D1DEE4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.inputframes{
+    border-radius: 7px;
+    height: 25px;
+    background-color: #05212D;
+    border-color: #05212D;
+    border: #05212D;
+    text-align: center;
+    color:#D1DEE4;
+}
+a{
+    color: wheat;
+}
+form{
+    margin-left: 25%;
+}
